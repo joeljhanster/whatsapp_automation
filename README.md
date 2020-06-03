@@ -9,5 +9,8 @@ Next, create the folder `User_Data`. This folder is meant to retain your Whatsap
 Lastly, make sure all the dependencies are installed.
 
 ### GUI using Tkinter ###
-![alt text](https://github.com/joeljhanster/whatsapp_automation/blob/master/demo.png?raw=true)
+![alt text](https://github.com/joeljhanster/whatsapp_automation/blob/master/demo.png?raw=true | width=100)
+
+### Whatsapp Automated Message ###
+![alt text](https://github.com/joeljhanster/whatsapp_automation/blob/master/whatsapp.png?raw=true | width=100)
 
