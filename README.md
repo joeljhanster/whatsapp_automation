@@ -12,5 +12,5 @@ Lastly, make sure all the dependencies are installed.
 <img src="https://github.com/joeljhanster/whatsapp_automation/blob/master/demo.png?raw=true" width="50%" height="50%" />
 
 ### Whatsapp Automated Message ###
-![alt text](https://github.com/joeljhanster/whatsapp_automation/blob/master/whatsapp.png?raw=true | width=100)
+<img src="https://github.com/joeljhanster/whatsapp_automation/blob/master/whatsapp.png?raw=true" width="80%" heigh="80%" />
 
